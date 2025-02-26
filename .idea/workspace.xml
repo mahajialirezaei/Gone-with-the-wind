@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf33133-8810-43da-a967-5b28c9c7fb71" name="Changes" comment="weight histogram and weight density plot">
-      <change beforePath="$PROJECT_DIR$/.idea/data_visualization_fall_of_empire.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_visualization_gone_with_the_wind.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="daf33133-8810-43da-a967-5b28c9c7fb71" name="Changes" comment="completely implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gone_with_the_wind.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/gone_with_the_wind.ipynb" afterDir="false" />
     </list>
@@ -75,7 +70,7 @@
       <updated>1740568809193</updated>
       <workItem from="1740568810631" duration="2234000" />
       <workItem from="1740572085045" duration="480000" />
-      <workItem from="1740572630939" duration="2986000" />
+      <workItem from="1740572630939" duration="4509000" />
     </task>
     <task id="LOCAL-00001" summary="implement the plot_df dataframe">
       <option name="closed" value="true" />
@@ -109,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740575620725</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completely implemented">
+      <option name="closed" value="true" />
+      <created>1740575664190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740575664190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +123,7 @@
     <MESSAGE value="implement height histogram" />
     <MESSAGE value="height density plot" />
     <MESSAGE value="weight histogram and weight density plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="weight histogram and weight density plot" />
+    <MESSAGE value="completely implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="completely implemented" />
   </component>
 </project>
